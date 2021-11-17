@@ -1,12 +1,10 @@
 import Navbar from "./components/Navbar";
 import './App.scss';
 
-function App() {
-  return (
+const App = () => (
     <div className="App">
       <Navbar  />
     </div>
   );
-}
 
 export default App;
