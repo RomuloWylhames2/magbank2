@@ -5,7 +5,6 @@ import logoDesktop from '../assets/logo__magic-pay.png';
 import './Hero.scss';
 
 const Hero = () => (
-  <Card>
     <Card.Body className='text-center text-light hero'>
       <Row className="my-lg-5">
         <Col lg className="text-lg-end my-lg-5">
@@ -18,7 +17,6 @@ const Hero = () => (
         </Col>
       </Row>     
     </Card.Body>
-  </Card>
 );
 
 export default Hero;
