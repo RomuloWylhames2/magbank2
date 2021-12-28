@@ -1,4 +1,51 @@
-# Getting Started with Create React App
+# Internet Banking - Magbank
+
+## Contexto⤵
+
+### Banco Magbank Fintech.
+---
+O que é Fintechs: são startups financeiras, ou seja, empresas que usam bastante tecnologia para realizar transações financeiras com mais agilidade. E alguns bancos geralmente não cobram nenhuma taxa de anuidade no cartão de crédito e possuem vários outros benefícios. Graças a essa característica, o seu público, que envolve pessoas físicas e jurídicas, tem aumentado de maneira significativa.
+
+## Projeto⤵
+
+Você pode conferir o projeto em: <a href="#" target="_blank">Magbank</a>
+
+### Algumas imagens do projeto
+---
+
+![Magban1](https://user-images.githubusercontent.com/76064660/147598745-3fc1db88-f994-4b87-b665-b66cd197e784.png)
+
+![magbank2](https://user-images.githubusercontent.com/76064660/147598911-085febf0-a6a2-40ba-8451-d0c1248ae1d6.png)
+
+![magbank3](https://user-images.githubusercontent.com/76064660/147598949-851b1a56-4083-458c-a669-a6d92c71a371.png)
+
+![magbank4](https://user-images.githubusercontent.com/76064660/147598990-9f16d998-b659-4c8c-bf13-c4adf803a0ab.png)
+
+
+
+---
+## 🛠 Tecnologias
+---
+
+As seguintes tecnologias foram usadas na construção do projeto:
+
+<table>
+  <tr>
+    <td>React</td>
+    <td>Sass</td>
+    <td>Bootstrap</td>
+  </tr>
+  <tr>
+    <td>v17.0</td>
+    <td>v1.43</td>
+    <td>v5.1</td>
+  </tr>
+</table>
+
+
+
+---
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
