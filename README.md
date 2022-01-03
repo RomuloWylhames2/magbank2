@@ -25,7 +25,6 @@ Você pode conferir o projeto em: <a href="#" target="_blank">Magbank</a>
 
 ---
 ## 🛠 Tecnologias
----
 
 As seguintes tecnologias foram usadas na construção do projeto:
 
